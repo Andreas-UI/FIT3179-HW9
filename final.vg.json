@@ -1,0 +1,178 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "projection": {
+        "type": "equalEarth"
+    },
+    "title": "Road Accident in Victoria",
+    "width": 1000,
+    "height": 600,
+    "data": {
+        "url": "https://raw.githubusercontent.com/Andreas-UI/FIT3179-HW9/main/vic_lga_gda94.topojson",
+        "format": {
+            "type": "topojson",
+            "feature": "unnamed"
+        }
+    },
+    "layer": [
+        {
+            "mark": {
+                "type": "geoshape",
+                "fill": "lightgray",
+                "stroke": "white",
+                "strokeWidth": 1
+            },
+            "encoding": {
+                "color": {
+                    "value": "gray"
+                }
+            }
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/Andreas-UI/FIT3179-HW9/main/data/NODE.csv",
+                "format": {
+                    "type": "csv"
+                }
+            },
+            "transform": [
+                {
+                    "aggregate": [
+                        {
+                            "op": "average",
+                            "field": "Lat",
+                            "as": "avg_lat"
+                        },
+                        {
+                            "op": "average",
+                            "field": "Long",
+                            "as": "avg_long"
+                        },
+                        {
+                            "op": "count",
+                            "field": "ACCIDENT_NO",
+                            "as": "accident_count"
+                        }
+                    ],
+                    "groupby": [
+                        "LGA_NAME"
+                    ]
+                }
+            ],
+            "mark": {
+                "type": "circle"
+            },
+            "encoding": {
+                "longitude": {
+                    "field": "avg_long",
+                    "type": "quantitative"
+                },
+                "latitude": {
+                    "field": "avg_lat",
+                    "type": "quantitative"
+                },
+                "color": {
+                    "title": "Number of Accidents",
+                    "field": "accident_count",
+                    "type": "quantitative",
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [
+                            10,
+                            30,
+                            100,
+                            300,
+                            1000,
+                            3000
+                        ],
+                        "range": [
+                            "#00FF00",
+                            "#33FF00",
+                            "#66FF00",
+                            "#99FF00",
+                            "#CCFF00",
+                            "#FFCC00",
+                            "#FF9900",
+                            "#FF6600",
+                            "#FF3300",
+                            "#FF0000"
+                        ]
+                    }
+                },
+                "opacity": {
+                    "value": 0.1
+                },
+                "size": {
+                    "value": 10000
+                },
+                "tooltip": [
+                    {
+                        "field": "LGA_NAME",
+                        "title": "Region"
+                    },
+                    {
+                        "field": "accident_count",
+                        "title": "Number of Accident"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/Andreas-UI/FIT3179-HW9/main/data/NODE.csv",
+                "format": {
+                    "type": "csv"
+                }
+            },
+            "transform": [
+                {
+                    "aggregate": [
+                        {
+                            "op": "average",
+                            "field": "Lat",
+                            "as": "avg_lat"
+                        },
+                        {
+                            "op": "average",
+                            "field": "Long",
+                            "as": "avg_long"
+                        },
+                        {
+                            "op": "count",
+                            "field": "ACCIDENT_NO",
+                            "as": "accident_count"
+                        }
+                    ],
+                    "groupby": [
+                        "LGA_NAME"
+                    ]
+                }
+            ],
+            "mark": {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/Andreas-UI/FIT3179-HW9/main/location-dot-solid.svg",
+                "width": 10,
+                "height": 10
+            },
+            "encoding": {
+                "longitude": {
+                    "field": "avg_long",
+                    "type": "quantitative"
+                },
+                "latitude": {
+                    "field": "avg_lat",
+                    "type": "quantitative"
+                },
+                "tooltip": [
+                    {
+                        "field": "LGA_NAME",
+                        "title": "Region"
+                    },
+                    {
+                        "field": "accident_count",
+                        "title": "Number of Accident"
+                    }
+                ]
+            }
+        }
+    ]
+}
