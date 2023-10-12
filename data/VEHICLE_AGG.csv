@@ -1,0 +1,23 @@
+Vehicle Type Desc,ACCIDENT_NO
+Bicycle,6712
+Bus/Coach,894
+Car,79319
+Heavy Vehicle (Rigid) > 4.5 Tonnes,5
+Horse (ridden or drawn),23
+Light Commercial Vehicle (Rigid) <= 4.5 Tonnes GVM,7
+Mini Bus(9-13 seats),249
+Moped,49
+Motor Cycle,11428
+Motor Scooter,203
+Other Vehicle,1452
+Panel Van,3738
+Prime Mover (No of Trailers Unknown),2562
+Prime Mover - Single Trailer,1
+Prime Mover Only,4
+Rigid Truck(Weight Unknown),4107
+Station Wagon,18743
+Taxi,1983
+Train,74
+Tram,562
+Unknown,2128
+Utility,9711
