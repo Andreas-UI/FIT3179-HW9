@@ -1,0 +1,1175 @@
+ACCIDENTDATE_YEAR,ACCIDENTDATE_MONTH,Vehicle Type Desc,ACCIDENT_NO
+2000,1,Bicycle,93
+2000,1,Bus/Coach,14
+2000,1,Car,1042
+2000,1,Mini Bus(9-13 seats),2
+2000,1,Moped,1
+2000,1,Motor Cycle,159
+2000,1,Motor Scooter,2
+2000,1,Other Vehicle,12
+2000,1,Panel Van,52
+2000,1,Prime Mover (No of Trailers Unknown),36
+2000,1,Rigid Truck(Weight Unknown),51
+2000,1,Station Wagon,226
+2000,1,Taxi,27
+2000,1,Train,2
+2000,1,Tram,6
+2000,1,Unknown,27
+2000,1,Utility,93
+2000,2,Bicycle,115
+2000,2,Bus/Coach,17
+2000,2,Car,1104
+2000,2,Mini Bus(9-13 seats),3
+2000,2,Moped,1
+2000,2,Motor Cycle,185
+2000,2,Other Vehicle,17
+2000,2,Panel Van,51
+2000,2,Prime Mover (No of Trailers Unknown),40
+2000,2,Rigid Truck(Weight Unknown),75
+2000,2,Station Wagon,240
+2000,2,Taxi,20
+2000,2,Tram,11
+2000,2,Unknown,38
+2000,2,Utility,149
+2000,3,Bicycle,113
+2000,3,Bus/Coach,17
+2000,3,Car,1261
+2000,3,Horse (ridden or drawn),2
+2000,3,Mini Bus(9-13 seats),2
+2000,3,Motor Cycle,190
+2000,3,Motor Scooter,2
+2000,3,Other Vehicle,14
+2000,3,Panel Van,66
+2000,3,Prime Mover (No of Trailers Unknown),44
+2000,3,Rigid Truck(Weight Unknown),83
+2000,3,Station Wagon,269
+2000,3,Taxi,28
+2000,3,Tram,10
+2000,3,Unknown,41
+2000,3,Utility,152
+2000,4,Bicycle,76
+2000,4,Bus/Coach,14
+2000,4,Car,1152
+2000,4,Horse (ridden or drawn),2
+2000,4,Mini Bus(9-13 seats),2
+2000,4,Moped,1
+2000,4,Motor Cycle,206
+2000,4,Motor Scooter,1
+2000,4,Other Vehicle,18
+2000,4,Panel Van,64
+2000,4,Prime Mover (No of Trailers Unknown),33
+2000,4,Rigid Truck(Weight Unknown),54
+2000,4,Station Wagon,264
+2000,4,Taxi,41
+2000,4,Train,1
+2000,4,Tram,10
+2000,4,Unknown,36
+2000,4,Utility,106
+2000,5,Bicycle,93
+2000,5,Bus/Coach,21
+2000,5,Car,1327
+2000,5,Mini Bus(9-13 seats),1
+2000,5,Moped,2
+2000,5,Motor Cycle,114
+2000,5,Motor Scooter,3
+2000,5,Other Vehicle,17
+2000,5,Panel Van,65
+2000,5,Prime Mover (No of Trailers Unknown),43
+2000,5,Rigid Truck(Weight Unknown),79
+2000,5,Station Wagon,305
+2000,5,Taxi,27
+2000,5,Train,1
+2000,5,Tram,10
+2000,5,Unknown,35
+2000,5,Utility,144
+2000,6,Bicycle,50
+2000,6,Bus/Coach,8
+2000,6,Car,1149
+2000,6,Horse (ridden or drawn),2
+2000,6,Mini Bus(9-13 seats),3
+2000,6,Motor Cycle,124
+2000,6,Motor Scooter,4
+2000,6,Other Vehicle,17
+2000,6,Panel Van,64
+2000,6,Prime Mover (No of Trailers Unknown),43
+2000,6,Rigid Truck(Weight Unknown),60
+2000,6,Station Wagon,223
+2000,6,Taxi,38
+2000,6,Train,2
+2000,6,Tram,7
+2000,6,Unknown,24
+2000,6,Utility,120
+2000,7,Bicycle,65
+2000,7,Bus/Coach,13
+2000,7,Car,1177
+2000,7,Mini Bus(9-13 seats),2
+2000,7,Motor Cycle,124
+2000,7,Other Vehicle,17
+2000,7,Panel Van,53
+2000,7,Prime Mover (No of Trailers Unknown),35
+2000,7,Rigid Truck(Weight Unknown),48
+2000,7,Station Wagon,265
+2000,7,Taxi,37
+2000,7,Train,1
+2000,7,Tram,7
+2000,7,Unknown,43
+2000,7,Utility,127
+2000,8,Bicycle,70
+2000,8,Bus/Coach,15
+2000,8,Car,1177
+2000,8,Mini Bus(9-13 seats),2
+2000,8,Moped,3
+2000,8,Motor Cycle,125
+2000,8,Other Vehicle,20
+2000,8,Panel Van,62
+2000,8,Prime Mover (No of Trailers Unknown),38
+2000,8,Rigid Truck(Weight Unknown),59
+2000,8,Station Wagon,243
+2000,8,Taxi,33
+2000,8,Train,1
+2000,8,Tram,17
+2000,8,Unknown,35
+2000,8,Utility,127
+2000,9,Bicycle,72
+2000,9,Bus/Coach,8
+2000,9,Car,1075
+2000,9,Mini Bus(9-13 seats),2
+2000,9,Motor Cycle,135
+2000,9,Other Vehicle,11
+2000,9,Panel Van,67
+2000,9,Prime Mover (No of Trailers Unknown),40
+2000,9,Rigid Truck(Weight Unknown),57
+2000,9,Station Wagon,219
+2000,9,Taxi,34
+2000,9,Train,1
+2000,9,Tram,10
+2000,9,Unknown,35
+2000,9,Utility,116
+2000,10,Bicycle,81
+2000,10,Bus/Coach,15
+2000,10,Car,1193
+2000,10,Mini Bus(9-13 seats),3
+2000,10,Motor Cycle,133
+2000,10,Motor Scooter,3
+2000,10,Other Vehicle,12
+2000,10,Panel Van,69
+2000,10,Prime Mover (No of Trailers Unknown),26
+2000,10,Rigid Truck(Weight Unknown),63
+2000,10,Station Wagon,271
+2000,10,Taxi,44
+2000,10,Train,1
+2000,10,Tram,8
+2000,10,Unknown,29
+2000,10,Utility,125
+2000,11,Bicycle,99
+2000,11,Bus/Coach,20
+2000,11,Car,1162
+2000,11,Mini Bus(9-13 seats),3
+2000,11,Motor Cycle,181
+2000,11,Other Vehicle,17
+2000,11,Panel Van,74
+2000,11,Prime Mover (No of Trailers Unknown),43
+2000,11,Rigid Truck(Weight Unknown),61
+2000,11,Station Wagon,266
+2000,11,Taxi,48
+2000,11,Train,2
+2000,11,Tram,10
+2000,11,Unknown,30
+2000,11,Utility,131
+2000,12,Bicycle,115
+2000,12,Bus/Coach,13
+2000,12,Car,1226
+2000,12,Horse (ridden or drawn),1
+2000,12,Mini Bus(9-13 seats),3
+2000,12,Motor Cycle,209
+2000,12,Motor Scooter,3
+2000,12,Other Vehicle,17
+2000,12,Panel Van,72
+2000,12,Prime Mover (No of Trailers Unknown),33
+2000,12,Rigid Truck(Weight Unknown),66
+2000,12,Station Wagon,295
+2000,12,Taxi,37
+2000,12,Train,1
+2000,12,Tram,3
+2000,12,Unknown,45
+2000,12,Utility,136
+2001,1,Bicycle,86
+2001,1,Bus/Coach,9
+2001,1,Car,986
+2001,1,Horse (ridden or drawn),1
+2001,1,Mini Bus(9-13 seats),3
+2001,1,Motor Cycle,177
+2001,1,Motor Scooter,1
+2001,1,Other Vehicle,18
+2001,1,Panel Van,60
+2001,1,Prime Mover (No of Trailers Unknown),46
+2001,1,Rigid Truck(Weight Unknown),43
+2001,1,Station Wagon,235
+2001,1,Taxi,27
+2001,1,Train,2
+2001,1,Tram,2
+2001,1,Unknown,42
+2001,1,Utility,114
+2001,2,Bicycle,95
+2001,2,Bus/Coach,20
+2001,2,Car,1032
+2001,2,Horse (ridden or drawn),1
+2001,2,Mini Bus(9-13 seats),1
+2001,2,Moped,1
+2001,2,Motor Cycle,158
+2001,2,Motor Scooter,1
+2001,2,Other Vehicle,15
+2001,2,Panel Van,86
+2001,2,Prime Mover (No of Trailers Unknown),27
+2001,2,Rigid Truck(Weight Unknown),49
+2001,2,Station Wagon,209
+2001,2,Taxi,19
+2001,2,Train,2
+2001,2,Tram,8
+2001,2,Unknown,33
+2001,2,Utility,110
+2001,3,Bicycle,113
+2001,3,Bus/Coach,13
+2001,3,Car,1261
+2001,3,Horse (ridden or drawn),1
+2001,3,Mini Bus(9-13 seats),3
+2001,3,Moped,1
+2001,3,Motor Cycle,178
+2001,3,Motor Scooter,5
+2001,3,Other Vehicle,17
+2001,3,Panel Van,82
+2001,3,Prime Mover (No of Trailers Unknown),45
+2001,3,Rigid Truck(Weight Unknown),66
+2001,3,Station Wagon,308
+2001,3,Taxi,33
+2001,3,Train,1
+2001,3,Tram,6
+2001,3,Unknown,44
+2001,3,Utility,151
+2001,4,Bicycle,80
+2001,4,Bus/Coach,7
+2001,4,Car,1119
+2001,4,Mini Bus(9-13 seats),8
+2001,4,Moped,1
+2001,4,Motor Cycle,191
+2001,4,Motor Scooter,3
+2001,4,Other Vehicle,14
+2001,4,Panel Van,55
+2001,4,Prime Mover (No of Trailers Unknown),36
+2001,4,Rigid Truck(Weight Unknown),65
+2001,4,Station Wagon,261
+2001,4,Taxi,26
+2001,4,Train,4
+2001,4,Tram,3
+2001,4,Unknown,40
+2001,4,Utility,110
+2001,5,Bicycle,123
+2001,5,Bus/Coach,16
+2001,5,Car,1124
+2001,5,Mini Bus(9-13 seats),4
+2001,5,Motor Cycle,157
+2001,5,Other Vehicle,15
+2001,5,Panel Van,51
+2001,5,Prime Mover (No of Trailers Unknown),39
+2001,5,Rigid Truck(Weight Unknown),74
+2001,5,Station Wagon,258
+2001,5,Taxi,33
+2001,5,Train,2
+2001,5,Tram,11
+2001,5,Unknown,46
+2001,5,Utility,136
+2001,6,Bicycle,80
+2001,6,Bus/Coach,17
+2001,6,Car,1147
+2001,6,Mini Bus(9-13 seats),6
+2001,6,Motor Cycle,136
+2001,6,Motor Scooter,3
+2001,6,Other Vehicle,17
+2001,6,Panel Van,81
+2001,6,Prime Mover (No of Trailers Unknown),35
+2001,6,Rigid Truck(Weight Unknown),74
+2001,6,Station Wagon,274
+2001,6,Taxi,29
+2001,6,Train,1
+2001,6,Tram,11
+2001,6,Unknown,36
+2001,6,Utility,111
+2001,7,Bicycle,65
+2001,7,Bus/Coach,10
+2001,7,Car,1092
+2001,7,Motor Cycle,128
+2001,7,Motor Scooter,3
+2001,7,Other Vehicle,14
+2001,7,Panel Van,58
+2001,7,Prime Mover (No of Trailers Unknown),36
+2001,7,Rigid Truck(Weight Unknown),57
+2001,7,Station Wagon,240
+2001,7,Taxi,25
+2001,7,Tram,6
+2001,7,Unknown,30
+2001,7,Utility,125
+2001,8,Bicycle,53
+2001,8,Bus/Coach,13
+2001,8,Car,1064
+2001,8,Mini Bus(9-13 seats),4
+2001,8,Motor Cycle,131
+2001,8,Motor Scooter,1
+2001,8,Other Vehicle,16
+2001,8,Panel Van,48
+2001,8,Prime Mover (No of Trailers Unknown),28
+2001,8,Rigid Truck(Weight Unknown),56
+2001,8,Station Wagon,225
+2001,8,Taxi,23
+2001,8,Train,1
+2001,8,Tram,6
+2001,8,Unknown,38
+2001,8,Utility,105
+2001,9,Bicycle,67
+2001,9,Bus/Coach,8
+2001,9,Car,1028
+2001,9,Horse (ridden or drawn),1
+2001,9,Mini Bus(9-13 seats),2
+2001,9,Moped,1
+2001,9,Motor Cycle,158
+2001,9,Motor Scooter,1
+2001,9,Other Vehicle,14
+2001,9,Panel Van,38
+2001,9,Prime Mover (No of Trailers Unknown),32
+2001,9,Rigid Truck(Weight Unknown),76
+2001,9,Station Wagon,221
+2001,9,Taxi,21
+2001,9,Tram,5
+2001,9,Unknown,40
+2001,9,Utility,113
+2001,10,Bicycle,82
+2001,10,Bus/Coach,9
+2001,10,Car,1205
+2001,10,Mini Bus(9-13 seats),3
+2001,10,Moped,1
+2001,10,Motor Cycle,170
+2001,10,Motor Scooter,2
+2001,10,Other Vehicle,31
+2001,10,Panel Van,55
+2001,10,Prime Mover (No of Trailers Unknown),44
+2001,10,Rigid Truck(Weight Unknown),77
+2001,10,Station Wagon,249
+2001,10,Taxi,26
+2001,10,Train,2
+2001,10,Tram,2
+2001,10,Unknown,47
+2001,10,Utility,126
+2001,11,Bicycle,94
+2001,11,Bus/Coach,9
+2001,11,Car,1217
+2001,11,Mini Bus(9-13 seats),7
+2001,11,Motor Cycle,212
+2001,11,Motor Scooter,4
+2001,11,Other Vehicle,20
+2001,11,Panel Van,46
+2001,11,Prime Mover (No of Trailers Unknown),32
+2001,11,Rigid Truck(Weight Unknown),43
+2001,11,Station Wagon,277
+2001,11,Taxi,22
+2001,11,Tram,6
+2001,11,Unknown,39
+2001,11,Utility,137
+2001,12,Bicycle,75
+2001,12,Bus/Coach,10
+2001,12,Car,1176
+2001,12,Mini Bus(9-13 seats),6
+2001,12,Moped,1
+2001,12,Motor Cycle,173
+2001,12,Motor Scooter,2
+2001,12,Other Vehicle,16
+2001,12,Panel Van,54
+2001,12,Prime Mover (No of Trailers Unknown),33
+2001,12,Rigid Truck(Weight Unknown),49
+2001,12,Station Wagon,214
+2001,12,Taxi,27
+2001,12,Tram,6
+2001,12,Unknown,31
+2001,12,Utility,105
+2002,1,Bicycle,91
+2002,1,Bus/Coach,7
+2002,1,Car,1008
+2002,1,Mini Bus(9-13 seats),2
+2002,1,Moped,1
+2002,1,Motor Cycle,173
+2002,1,Motor Scooter,6
+2002,1,Other Vehicle,19
+2002,1,Panel Van,44
+2002,1,Prime Mover (No of Trailers Unknown),28
+2002,1,Rigid Truck(Weight Unknown),43
+2002,1,Station Wagon,210
+2002,1,Taxi,16
+2002,1,Train,2
+2002,1,Tram,10
+2002,1,Unknown,32
+2002,1,Utility,118
+2002,2,Bicycle,102
+2002,2,Bus/Coach,18
+2002,2,Car,1073
+2002,2,Mini Bus(9-13 seats),6
+2002,2,Motor Cycle,173
+2002,2,Other Vehicle,17
+2002,2,Panel Van,56
+2002,2,Prime Mover (No of Trailers Unknown),25
+2002,2,Rigid Truck(Weight Unknown),58
+2002,2,Station Wagon,228
+2002,2,Taxi,21
+2002,2,Train,1
+2002,2,Tram,6
+2002,2,Unknown,29
+2002,2,Utility,106
+2002,3,Bicycle,122
+2002,3,Bus/Coach,16
+2002,3,Car,1302
+2002,3,Mini Bus(9-13 seats),3
+2002,3,Motor Cycle,225
+2002,3,Other Vehicle,24
+2002,3,Panel Van,60
+2002,3,Prime Mover (No of Trailers Unknown),40
+2002,3,Rigid Truck(Weight Unknown),55
+2002,3,Station Wagon,265
+2002,3,Taxi,27
+2002,3,Train,1
+2002,3,Tram,11
+2002,3,Unknown,33
+2002,3,Utility,133
+2002,4,Bicycle,95
+2002,4,Bus/Coach,8
+2002,4,Car,1102
+2002,4,Horse (ridden or drawn),1
+2002,4,Mini Bus(9-13 seats),2
+2002,4,Moped,2
+2002,4,Motor Cycle,181
+2002,4,Other Vehicle,20
+2002,4,Panel Van,47
+2002,4,Prime Mover (No of Trailers Unknown),31
+2002,4,Prime Mover Only,1
+2002,4,Rigid Truck(Weight Unknown),54
+2002,4,Station Wagon,226
+2002,4,Taxi,17
+2002,4,Tram,7
+2002,4,Unknown,20
+2002,4,Utility,134
+2002,5,Bicycle,104
+2002,5,Bus/Coach,14
+2002,5,Car,1283
+2002,5,Horse (ridden or drawn),1
+2002,5,Mini Bus(9-13 seats),6
+2002,5,Moped,1
+2002,5,Motor Cycle,162
+2002,5,Motor Scooter,3
+2002,5,Other Vehicle,20
+2002,5,Panel Van,48
+2002,5,Prime Mover (No of Trailers Unknown),51
+2002,5,Rigid Truck(Weight Unknown),71
+2002,5,Station Wagon,260
+2002,5,Taxi,21
+2002,5,Tram,12
+2002,5,Unknown,28
+2002,5,Utility,143
+2002,6,Bicycle,65
+2002,6,Bus/Coach,15
+2002,6,Car,1129
+2002,6,Mini Bus(9-13 seats),9
+2002,6,Motor Cycle,122
+2002,6,Other Vehicle,20
+2002,6,Panel Van,39
+2002,6,Prime Mover (No of Trailers Unknown),35
+2002,6,Rigid Truck(Weight Unknown),57
+2002,6,Station Wagon,224
+2002,6,Taxi,29
+2002,6,Train,1
+2002,6,Tram,11
+2002,6,Unknown,23
+2002,6,Utility,102
+2002,7,Bicycle,69
+2002,7,Bus/Coach,6
+2002,7,Car,1021
+2002,7,Motor Cycle,114
+2002,7,Motor Scooter,4
+2002,7,Other Vehicle,19
+2002,7,Panel Van,47
+2002,7,Prime Mover (No of Trailers Unknown),26
+2002,7,Rigid Truck(Weight Unknown),67
+2002,7,Station Wagon,254
+2002,7,Taxi,18
+2002,7,Train,1
+2002,7,Tram,7
+2002,7,Unknown,24
+2002,7,Utility,114
+2002,8,Bicycle,100
+2002,8,Bus/Coach,15
+2002,8,Car,1106
+2002,8,Mini Bus(9-13 seats),1
+2002,8,Motor Cycle,140
+2002,8,Other Vehicle,33
+2002,8,Panel Van,59
+2002,8,Prime Mover (No of Trailers Unknown),29
+2002,8,Rigid Truck(Weight Unknown),77
+2002,8,Station Wagon,277
+2002,8,Taxi,31
+2002,8,Train,2
+2002,8,Tram,7
+2002,8,Unknown,32
+2002,8,Utility,151
+2002,9,Bicycle,99
+2002,9,Bus/Coach,14
+2002,9,Car,1107
+2002,9,Mini Bus(9-13 seats),2
+2002,9,Motor Cycle,140
+2002,9,Other Vehicle,32
+2002,9,Panel Van,53
+2002,9,Prime Mover (No of Trailers Unknown),34
+2002,9,Rigid Truck(Weight Unknown),65
+2002,9,Station Wagon,277
+2002,9,Taxi,27
+2002,9,Train,1
+2002,9,Tram,11
+2002,9,Unknown,20
+2002,9,Utility,125
+2002,10,Bicycle,99
+2002,10,Bus/Coach,15
+2002,10,Car,1064
+2002,10,Horse (ridden or drawn),1
+2002,10,Mini Bus(9-13 seats),2
+2002,10,Motor Cycle,181
+2002,10,Motor Scooter,1
+2002,10,Other Vehicle,23
+2002,10,Panel Van,56
+2002,10,Prime Mover (No of Trailers Unknown),45
+2002,10,Rigid Truck(Weight Unknown),79
+2002,10,Station Wagon,298
+2002,10,Taxi,22
+2002,10,Train,1
+2002,10,Tram,9
+2002,10,Unknown,30
+2002,10,Utility,115
+2002,11,Bicycle,105
+2002,11,Bus/Coach,23
+2002,11,Car,1135
+2002,11,Mini Bus(9-13 seats),1
+2002,11,Motor Cycle,221
+2002,11,Other Vehicle,23
+2002,11,Panel Van,68
+2002,11,Prime Mover (No of Trailers Unknown),35
+2002,11,Rigid Truck(Weight Unknown),76
+2002,11,Station Wagon,275
+2002,11,Taxi,33
+2002,11,Tram,9
+2002,11,Unknown,34
+2002,11,Utility,152
+2002,12,Bicycle,95
+2002,12,Bus/Coach,22
+2002,12,Car,1101
+2002,12,Horse (ridden or drawn),1
+2002,12,Mini Bus(9-13 seats),3
+2002,12,Motor Cycle,162
+2002,12,Motor Scooter,1
+2002,12,Other Vehicle,25
+2002,12,Panel Van,55
+2002,12,Prime Mover (No of Trailers Unknown),42
+2002,12,Rigid Truck(Weight Unknown),80
+2002,12,Station Wagon,279
+2002,12,Taxi,24
+2002,12,Tram,9
+2002,12,Unknown,23
+2002,12,Utility,140
+2003,1,Bicycle,90
+2003,1,Bus/Coach,4
+2003,1,Car,953
+2003,1,Mini Bus(9-13 seats),3
+2003,1,Motor Cycle,164
+2003,1,Motor Scooter,1
+2003,1,Other Vehicle,22
+2003,1,Panel Van,23
+2003,1,Prime Mover (No of Trailers Unknown),34
+2003,1,Rigid Truck(Weight Unknown),90
+2003,1,Station Wagon,255
+2003,1,Taxi,14
+2003,1,Tram,9
+2003,1,Unknown,18
+2003,1,Utility,108
+2003,2,Bicycle,127
+2003,2,Bus/Coach,20
+2003,2,Car,1055
+2003,2,Mini Bus(9-13 seats),1
+2003,2,Motor Cycle,145
+2003,2,Motor Scooter,2
+2003,2,Other Vehicle,38
+2003,2,Panel Van,30
+2003,2,Prime Mover (No of Trailers Unknown),38
+2003,2,Rigid Truck(Weight Unknown),58
+2003,2,Station Wagon,272
+2003,2,Taxi,18
+2003,2,Tram,11
+2003,2,Unknown,26
+2003,2,Utility,104
+2003,3,Bicycle,120
+2003,3,Bus/Coach,16
+2003,3,Car,1182
+2003,3,Horse (ridden or drawn),1
+2003,3,Mini Bus(9-13 seats),6
+2003,3,Moped,2
+2003,3,Motor Cycle,174
+2003,3,Motor Scooter,3
+2003,3,Other Vehicle,21
+2003,3,Panel Van,35
+2003,3,Prime Mover (No of Trailers Unknown),32
+2003,3,Rigid Truck(Weight Unknown),75
+2003,3,Station Wagon,300
+2003,3,Taxi,30
+2003,3,Tram,9
+2003,3,Unknown,24
+2003,3,Utility,155
+2003,4,Bicycle,93
+2003,4,Bus/Coach,10
+2003,4,Car,1081
+2003,4,Mini Bus(9-13 seats),5
+2003,4,Moped,1
+2003,4,Motor Cycle,149
+2003,4,Motor Scooter,3
+2003,4,Other Vehicle,39
+2003,4,Panel Van,46
+2003,4,Prime Mover (No of Trailers Unknown),40
+2003,4,Rigid Truck(Weight Unknown),37
+2003,4,Station Wagon,227
+2003,4,Taxi,21
+2003,4,Train,2
+2003,4,Tram,12
+2003,4,Unknown,26
+2003,4,Utility,135
+2003,5,Bicycle,98
+2003,5,Bus/Coach,16
+2003,5,Car,1260
+2003,5,Horse (ridden or drawn),1
+2003,5,Mini Bus(9-13 seats),3
+2003,5,Motor Cycle,167
+2003,5,Motor Scooter,1
+2003,5,Other Vehicle,28
+2003,5,Panel Van,41
+2003,5,Prime Mover (No of Trailers Unknown),48
+2003,5,Rigid Truck(Weight Unknown),54
+2003,5,Station Wagon,266
+2003,5,Taxi,21
+2003,5,Train,1
+2003,5,Tram,10
+2003,5,Unknown,32
+2003,5,Utility,158
+2003,6,Bicycle,51
+2003,6,Bus/Coach,16
+2003,6,Car,1082
+2003,6,Horse (ridden or drawn),1
+2003,6,Mini Bus(9-13 seats),2
+2003,6,Moped,1
+2003,6,Motor Cycle,110
+2003,6,Motor Scooter,4
+2003,6,Other Vehicle,35
+2003,6,Panel Van,46
+2003,6,Prime Mover (No of Trailers Unknown),36
+2003,6,Rigid Truck(Weight Unknown),44
+2003,6,Station Wagon,239
+2003,6,Taxi,29
+2003,6,Train,1
+2003,6,Tram,6
+2003,6,Unknown,31
+2003,6,Utility,121
+2003,7,Bicycle,68
+2003,7,Bus/Coach,10
+2003,7,Car,1198
+2003,7,Mini Bus(9-13 seats),6
+2003,7,Motor Cycle,115
+2003,7,Motor Scooter,3
+2003,7,Other Vehicle,24
+2003,7,Panel Van,50
+2003,7,Prime Mover (No of Trailers Unknown),38
+2003,7,Rigid Truck(Weight Unknown),48
+2003,7,Station Wagon,231
+2003,7,Taxi,45
+2003,7,Tram,4
+2003,7,Unknown,25
+2003,7,Utility,150
+2003,8,Bicycle,73
+2003,8,Bus/Coach,15
+2003,8,Car,1019
+2003,8,Mini Bus(9-13 seats),3
+2003,8,Motor Cycle,119
+2003,8,Motor Scooter,2
+2003,8,Other Vehicle,27
+2003,8,Panel Van,45
+2003,8,Prime Mover (No of Trailers Unknown),15
+2003,8,Rigid Truck(Weight Unknown),46
+2003,8,Station Wagon,250
+2003,8,Taxi,24
+2003,8,Tram,6
+2003,8,Unknown,21
+2003,8,Utility,160
+2003,9,Bicycle,62
+2003,9,Bus/Coach,6
+2003,9,Car,1023
+2003,9,Horse (ridden or drawn),1
+2003,9,Mini Bus(9-13 seats),4
+2003,9,Motor Cycle,124
+2003,9,Motor Scooter,3
+2003,9,Other Vehicle,27
+2003,9,Panel Van,32
+2003,9,Prime Mover (No of Trailers Unknown),27
+2003,9,Rigid Truck(Weight Unknown),44
+2003,9,Station Wagon,227
+2003,9,Taxi,35
+2003,9,Train,2
+2003,9,Tram,4
+2003,9,Unknown,26
+2003,9,Utility,129
+2003,10,Bicycle,76
+2003,10,Bus/Coach,13
+2003,10,Car,1175
+2003,10,Mini Bus(9-13 seats),8
+2003,10,Moped,1
+2003,10,Motor Cycle,158
+2003,10,Motor Scooter,3
+2003,10,Other Vehicle,32
+2003,10,Panel Van,42
+2003,10,Prime Mover (No of Trailers Unknown),43
+2003,10,Rigid Truck(Weight Unknown),46
+2003,10,Station Wagon,291
+2003,10,Taxi,24
+2003,10,Tram,5
+2003,10,Unknown,35
+2003,10,Utility,165
+2003,11,Bicycle,92
+2003,11,Bus/Coach,14
+2003,11,Car,1116
+2003,11,Mini Bus(9-13 seats),3
+2003,11,Motor Cycle,164
+2003,11,Motor Scooter,3
+2003,11,Other Vehicle,19
+2003,11,Panel Van,46
+2003,11,Prime Mover (No of Trailers Unknown),36
+2003,11,Rigid Truck(Weight Unknown),51
+2003,11,Station Wagon,290
+2003,11,Taxi,27
+2003,11,Train,2
+2003,11,Tram,12
+2003,11,Unknown,27
+2003,11,Utility,145
+2003,12,Bicycle,95
+2003,12,Bus/Coach,5
+2003,12,Car,1103
+2003,12,Horse (ridden or drawn),1
+2003,12,Mini Bus(9-13 seats),6
+2003,12,Motor Cycle,169
+2003,12,Motor Scooter,1
+2003,12,Other Vehicle,19
+2003,12,Panel Van,50
+2003,12,Prime Mover (No of Trailers Unknown),40
+2003,12,Rigid Truck(Weight Unknown),55
+2003,12,Station Wagon,256
+2003,12,Taxi,22
+2003,12,Tram,8
+2003,12,Unknown,25
+2003,12,Utility,134
+2004,1,Bicycle,94
+2004,1,Bus/Coach,8
+2004,1,Car,965
+2004,1,Mini Bus(9-13 seats),4
+2004,1,Moped,1
+2004,1,Motor Cycle,166
+2004,1,Motor Scooter,2
+2004,1,Other Vehicle,21
+2004,1,Panel Van,32
+2004,1,Prime Mover (No of Trailers Unknown),35
+2004,1,Rigid Truck(Weight Unknown),41
+2004,1,Station Wagon,235
+2004,1,Taxi,19
+2004,1,Train,2
+2004,1,Tram,8
+2004,1,Unknown,25
+2004,1,Utility,130
+2004,2,Bicycle,117
+2004,2,Bus/Coach,13
+2004,2,Car,1035
+2004,2,Horse (ridden or drawn),1
+2004,2,Mini Bus(9-13 seats),3
+2004,2,Moped,1
+2004,2,Motor Cycle,160
+2004,2,Motor Scooter,5
+2004,2,Other Vehicle,16
+2004,2,Panel Van,33
+2004,2,Prime Mover (No of Trailers Unknown),26
+2004,2,Rigid Truck(Weight Unknown),51
+2004,2,Station Wagon,258
+2004,2,Taxi,17
+2004,2,Tram,8
+2004,2,Unknown,20
+2004,2,Utility,133
+2004,3,Bicycle,127
+2004,3,Bus/Coach,9
+2004,3,Car,1147
+2004,3,Horse (ridden or drawn),1
+2004,3,Mini Bus(9-13 seats),5
+2004,3,Motor Cycle,180
+2004,3,Motor Scooter,3
+2004,3,Other Vehicle,25
+2004,3,Panel Van,43
+2004,3,Prime Mover (No of Trailers Unknown),34
+2004,3,Rigid Truck(Weight Unknown),62
+2004,3,Station Wagon,276
+2004,3,Taxi,23
+2004,3,Tram,12
+2004,3,Unknown,22
+2004,3,Utility,159
+2004,4,Bicycle,93
+2004,4,Bus/Coach,7
+2004,4,Car,1029
+2004,4,Mini Bus(9-13 seats),5
+2004,4,Motor Cycle,147
+2004,4,Motor Scooter,8
+2004,4,Other Vehicle,24
+2004,4,Panel Van,48
+2004,4,Prime Mover (No of Trailers Unknown),39
+2004,4,Rigid Truck(Weight Unknown),46
+2004,4,Station Wagon,239
+2004,4,Taxi,21
+2004,4,Tram,6
+2004,4,Unknown,23
+2004,4,Utility,119
+2004,5,Bicycle,91
+2004,5,Bus/Coach,20
+2004,5,Car,1118
+2004,5,Mini Bus(9-13 seats),6
+2004,5,Motor Cycle,179
+2004,5,Motor Scooter,4
+2004,5,Other Vehicle,26
+2004,5,Panel Van,44
+2004,5,Prime Mover (No of Trailers Unknown),38
+2004,5,Rigid Truck(Weight Unknown),50
+2004,5,Station Wagon,251
+2004,5,Taxi,26
+2004,5,Train,2
+2004,5,Tram,10
+2004,5,Unknown,22
+2004,5,Utility,120
+2004,6,Bicycle,104
+2004,6,Bus/Coach,14
+2004,6,Car,1014
+2004,6,Mini Bus(9-13 seats),1
+2004,6,Moped,1
+2004,6,Motor Cycle,113
+2004,6,Motor Scooter,4
+2004,6,Other Vehicle,20
+2004,6,Panel Van,41
+2004,6,Prime Mover (No of Trailers Unknown),34
+2004,6,Rigid Truck(Weight Unknown),44
+2004,6,Station Wagon,224
+2004,6,Taxi,28
+2004,6,Train,2
+2004,6,Tram,9
+2004,6,Unknown,20
+2004,6,Utility,148
+2004,7,Bicycle,75
+2004,7,Bus/Coach,12
+2004,7,Car,1018
+2004,7,Moped,1
+2004,7,Motor Cycle,109
+2004,7,Motor Scooter,5
+2004,7,Other Vehicle,16
+2004,7,Panel Van,56
+2004,7,Prime Mover (No of Trailers Unknown),42
+2004,7,Rigid Truck(Weight Unknown),57
+2004,7,Station Wagon,269
+2004,7,Taxi,25
+2004,7,Tram,7
+2004,7,Unknown,29
+2004,7,Utility,139
+2004,8,Bicycle,98
+2004,8,Bus/Coach,8
+2004,8,Car,1037
+2004,8,Mini Bus(9-13 seats),4
+2004,8,Moped,3
+2004,8,Motor Cycle,129
+2004,8,Motor Scooter,3
+2004,8,Other Vehicle,22
+2004,8,Panel Van,47
+2004,8,Prime Mover (No of Trailers Unknown),40
+2004,8,Rigid Truck(Weight Unknown),46
+2004,8,Station Wagon,268
+2004,8,Taxi,29
+2004,8,Train,2
+2004,8,Tram,12
+2004,8,Unknown,21
+2004,8,Utility,168
+2004,9,Bicycle,84
+2004,9,Bus/Coach,10
+2004,9,Car,952
+2004,9,Horse (ridden or drawn),1
+2004,9,Mini Bus(9-13 seats),1
+2004,9,Moped,1
+2004,9,Motor Cycle,130
+2004,9,Motor Scooter,3
+2004,9,Other Vehicle,16
+2004,9,Panel Van,48
+2004,9,Prime Mover (No of Trailers Unknown),31
+2004,9,Rigid Truck(Weight Unknown),37
+2004,9,Station Wagon,263
+2004,9,Taxi,31
+2004,9,Tram,5
+2004,9,Unknown,18
+2004,9,Utility,144
+2004,10,Bicycle,107
+2004,10,Bus/Coach,14
+2004,10,Car,1050
+2004,10,Heavy Vehicle (Rigid) > 4.5 Tonnes,1
+2004,10,Light Commercial Vehicle (Rigid) <= 4.5 Tonnes GVM,1
+2004,10,Mini Bus(9-13 seats),4
+2004,10,Motor Cycle,177
+2004,10,Motor Scooter,5
+2004,10,Other Vehicle,16
+2004,10,Panel Van,52
+2004,10,Prime Mover (No of Trailers Unknown),32
+2004,10,Prime Mover Only,1
+2004,10,Rigid Truck(Weight Unknown),34
+2004,10,Station Wagon,283
+2004,10,Taxi,32
+2004,10,Tram,8
+2004,10,Unknown,27
+2004,10,Utility,154
+2004,11,Bicycle,106
+2004,11,Bus/Coach,12
+2004,11,Car,1068
+2004,11,Mini Bus(9-13 seats),8
+2004,11,Motor Cycle,154
+2004,11,Motor Scooter,3
+2004,11,Other Vehicle,15
+2004,11,Panel Van,54
+2004,11,Prime Mover (No of Trailers Unknown),40
+2004,11,Rigid Truck(Weight Unknown),50
+2004,11,Station Wagon,302
+2004,11,Taxi,31
+2004,11,Train,2
+2004,11,Tram,7
+2004,11,Unknown,24
+2004,11,Utility,158
+2004,12,Bicycle,95
+2004,12,Bus/Coach,3
+2004,12,Car,916
+2004,12,Mini Bus(9-13 seats),3
+2004,12,Moped,1
+2004,12,Motor Cycle,131
+2004,12,Motor Scooter,4
+2004,12,Other Vehicle,14
+2004,12,Panel Van,41
+2004,12,Prime Mover (No of Trailers Unknown),30
+2004,12,Rigid Truck(Weight Unknown),42
+2004,12,Station Wagon,229
+2004,12,Taxi,32
+2004,12,Train,1
+2004,12,Tram,8
+2004,12,Unknown,21
+2004,12,Utility,122
+2005,1,Bicycle,69
+2005,1,Bus/Coach,6
+2005,1,Car,752
+2005,1,Mini Bus(9-13 seats),2
+2005,1,Moped,2
+2005,1,Motor Cycle,145
+2005,1,Motor Scooter,2
+2005,1,Other Vehicle,13
+2005,1,Panel Van,34
+2005,1,Prime Mover (No of Trailers Unknown),23
+2005,1,Rigid Truck(Weight Unknown),41
+2005,1,Station Wagon,173
+2005,1,Taxi,21
+2005,1,Train,2
+2005,1,Tram,9
+2005,1,Unknown,25
+2005,1,Utility,88
+2005,2,Bicycle,96
+2005,2,Bus/Coach,8
+2005,2,Car,857
+2005,2,Heavy Vehicle (Rigid) > 4.5 Tonnes,1
+2005,2,Mini Bus(9-13 seats),4
+2005,2,Moped,2
+2005,2,Motor Cycle,144
+2005,2,Motor Scooter,4
+2005,2,Other Vehicle,18
+2005,2,Panel Van,47
+2005,2,Prime Mover (No of Trailers Unknown),21
+2005,2,Rigid Truck(Weight Unknown),37
+2005,2,Station Wagon,225
+2005,2,Taxi,25
+2005,2,Train,1
+2005,2,Tram,4
+2005,2,Unknown,17
+2005,2,Utility,113
+2005,3,Bicycle,110
+2005,3,Bus/Coach,12
+2005,3,Car,876
+2005,3,Mini Bus(9-13 seats),1
+2005,3,Moped,2
+2005,3,Motor Cycle,164
+2005,3,Motor Scooter,6
+2005,3,Other Vehicle,16
+2005,3,Panel Van,36
+2005,3,Prime Mover (No of Trailers Unknown),36
+2005,3,Rigid Truck(Weight Unknown),43
+2005,3,Station Wagon,246
+2005,3,Taxi,30
+2005,3,Tram,9
+2005,3,Unknown,22
+2005,3,Utility,145
+2005,4,Bicycle,85
+2005,4,Bus/Coach,12
+2005,4,Car,858
+2005,4,Light Commercial Vehicle (Rigid) <= 4.5 Tonnes GVM,1
+2005,4,Mini Bus(9-13 seats),7
+2005,4,Motor Cycle,170
+2005,4,Motor Scooter,3
+2005,4,Other Vehicle,14
+2005,4,Panel Van,51
+2005,4,Prime Mover (No of Trailers Unknown),25
+2005,4,Rigid Truck(Weight Unknown),46
+2005,4,Station Wagon,223
+2005,4,Taxi,30
+2005,4,Train,1
+2005,4,Tram,4
+2005,4,Unknown,16
+2005,4,Utility,121
+2005,5,Bicycle,118
+2005,5,Bus/Coach,9
+2005,5,Car,908
+2005,5,Mini Bus(9-13 seats),1
+2005,5,Moped,1
+2005,5,Motor Cycle,132
+2005,5,Motor Scooter,3
+2005,5,Other Vehicle,15
+2005,5,Panel Van,37
+2005,5,Prime Mover (No of Trailers Unknown),28
+2005,5,Rigid Truck(Weight Unknown),42
+2005,5,Station Wagon,235
+2005,5,Taxi,25
+2005,5,Tram,8
+2005,5,Unknown,19
+2005,5,Utility,133
+2005,6,Bicycle,102
+2005,6,Bus/Coach,10
+2005,6,Car,948
+2005,6,Mini Bus(9-13 seats),2
+2005,6,Moped,3
+2005,6,Motor Cycle,138
+2005,6,Motor Scooter,5
+2005,6,Other Vehicle,16
+2005,6,Panel Van,47
+2005,6,Prime Mover (No of Trailers Unknown),36
+2005,6,Rigid Truck(Weight Unknown),48
+2005,6,Station Wagon,260
+2005,6,Taxi,22
+2005,6,Tram,3
+2005,6,Unknown,27
+2005,6,Utility,135
+2005,7,Bicycle,94
+2005,7,Bus/Coach,2
+2005,7,Car,1099
+2005,7,Mini Bus(9-13 seats),6
+2005,7,Moped,1
+2005,7,Motor Cycle,125
+2005,7,Motor Scooter,6
+2005,7,Other Vehicle,16
+2005,7,Panel Van,56
+2005,7,Prime Mover (No of Trailers Unknown),29
+2005,7,Rigid Truck(Weight Unknown),56
+2005,7,Station Wagon,280
+2005,7,Taxi,38
+2005,7,Train,3
+2005,7,Tram,3
+2005,7,Unknown,30
+2005,7,Utility,162
+2005,8,Bicycle,100
+2005,8,Bus/Coach,15
+2005,8,Car,1047
+2005,8,Mini Bus(9-13 seats),5
+2005,8,Moped,3
+2005,8,Motor Cycle,126
+2005,8,Motor Scooter,9
+2005,8,Other Vehicle,21
+2005,8,Panel Van,45
+2005,8,Prime Mover (No of Trailers Unknown),35
+2005,8,Rigid Truck(Weight Unknown),53
+2005,8,Station Wagon,273
+2005,8,Taxi,30
+2005,8,Train,3
+2005,8,Tram,6
+2005,8,Unknown,19
+2005,8,Utility,130
+2005,9,Bicycle,90
+2005,9,Bus/Coach,9
+2005,9,Car,944
+2005,9,Light Commercial Vehicle (Rigid) <= 4.5 Tonnes GVM,1
+2005,9,Mini Bus(9-13 seats),4
+2005,9,Motor Cycle,142
+2005,9,Motor Scooter,7
+2005,9,Other Vehicle,19
+2005,9,Panel Van,41
+2005,9,Prime Mover (No of Trailers Unknown),21
+2005,9,Rigid Truck(Weight Unknown),58
+2005,9,Station Wagon,249
+2005,9,Taxi,39
+2005,9,Train,1
+2005,9,Tram,9
+2005,9,Unknown,26
+2005,9,Utility,138
+2005,10,Bicycle,105
+2005,10,Bus/Coach,10
+2005,10,Car,1049
+2005,10,Mini Bus(9-13 seats),2
+2005,10,Moped,2
+2005,10,Motor Cycle,202
+2005,10,Motor Scooter,5
+2005,10,Other Vehicle,14
+2005,10,Panel Van,55
+2005,10,Prime Mover (No of Trailers Unknown),36
+2005,10,Rigid Truck(Weight Unknown),52
+2005,10,Station Wagon,253
+2005,10,Taxi,26
+2005,10,Train,1
+2005,10,Tram,4
+2005,10,Unknown,38
+2005,10,Utility,149
+2005,11,Bicycle,115
+2005,11,Bus/Coach,8
+2005,11,Car,1049
+2005,11,Heavy Vehicle (Rigid) > 4.5 Tonnes,2
+2005,11,Mini Bus(9-13 seats),3
+2005,11,Moped,1
+2005,11,Motor Cycle,177
+2005,11,Motor Scooter,7
+2005,11,Other Vehicle,22
+2005,11,Panel Van,47
+2005,11,Prime Mover (No of Trailers Unknown),40
+2005,11,Prime Mover Only,1
+2005,11,Rigid Truck(Weight Unknown),51
+2005,11,Station Wagon,286
+2005,11,Taxi,25
+2005,11,Tram,5
+2005,11,Unknown,22
+2005,11,Utility,169
+2005,12,Bicycle,104
+2005,12,Bus/Coach,16
+2005,12,Car,1085
+2005,12,Heavy Vehicle (Rigid) > 4.5 Tonnes,1
+2005,12,Light Commercial Vehicle (Rigid) <= 4.5 Tonnes GVM,4
+2005,12,Mini Bus(9-13 seats),1
+2005,12,Motor Cycle,159
+2005,12,Motor Scooter,6
+2005,12,Other Vehicle,16
+2005,12,Panel Van,46
+2005,12,Prime Mover (No of Trailers Unknown),32
+2005,12,Rigid Truck(Weight Unknown),38
+2005,12,Station Wagon,305
+2005,12,Taxi,27
+2005,12,Train,2
+2005,12,Tram,12
+2005,12,Unknown,33
+2005,12,Utility,146
