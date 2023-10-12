@@ -1,0 +1,115 @@
+ACCIDENTDATE_YEAR,Vehicle Type Desc,ACCIDENT_NO
+2000,Bicycle,1042
+2000,Bus/Coach,175
+2000,Car,14045
+2000,Horse (ridden or drawn),7
+2000,Mini Bus(9-13 seats),28
+2000,Moped,8
+2000,Motor Cycle,1885
+2000,Motor Scooter,18
+2000,Other Vehicle,189
+2000,Panel Van,759
+2000,Prime Mover (No of Trailers Unknown),454
+2000,Rigid Truck(Weight Unknown),756
+2000,Station Wagon,3086
+2000,Taxi,414
+2000,Train,13
+2000,Tram,109
+2000,Unknown,418
+2000,Utility,1526
+2001,Bicycle,1013
+2001,Bus/Coach,141
+2001,Car,13451
+2001,Horse (ridden or drawn),4
+2001,Mini Bus(9-13 seats),47
+2001,Moped,6
+2001,Motor Cycle,1969
+2001,Motor Scooter,26
+2001,Other Vehicle,207
+2001,Panel Van,714
+2001,Prime Mover (No of Trailers Unknown),433
+2001,Rigid Truck(Weight Unknown),729
+2001,Station Wagon,2971
+2001,Taxi,311
+2001,Train,15
+2001,Tram,72
+2001,Unknown,466
+2001,Utility,1443
+2002,Bicycle,1146
+2002,Bus/Coach,173
+2002,Car,13431
+2002,Horse (ridden or drawn),4
+2002,Mini Bus(9-13 seats),37
+2002,Moped,4
+2002,Motor Cycle,1994
+2002,Motor Scooter,15
+2002,Other Vehicle,275
+2002,Panel Van,632
+2002,Prime Mover (No of Trailers Unknown),421
+2002,Prime Mover Only,1
+2002,Rigid Truck(Weight Unknown),782
+2002,Station Wagon,3073
+2002,Taxi,286
+2002,Train,10
+2002,Tram,109
+2002,Unknown,328
+2002,Utility,1533
+2003,Bicycle,1045
+2003,Bus/Coach,145
+2003,Car,13247
+2003,Horse (ridden or drawn),5
+2003,Mini Bus(9-13 seats),50
+2003,Moped,5
+2003,Motor Cycle,1758
+2003,Motor Scooter,29
+2003,Other Vehicle,331
+2003,Panel Van,486
+2003,Prime Mover (No of Trailers Unknown),427
+2003,Rigid Truck(Weight Unknown),648
+2003,Station Wagon,3104
+2003,Taxi,310
+2003,Train,8
+2003,Tram,96
+2003,Unknown,316
+2003,Utility,1664
+2004,Bicycle,1191
+2004,Bus/Coach,130
+2004,Car,12349
+2004,Heavy Vehicle (Rigid) > 4.5 Tonnes,1
+2004,Horse (ridden or drawn),3
+2004,Light Commercial Vehicle (Rigid) <= 4.5 Tonnes GVM,1
+2004,Mini Bus(9-13 seats),44
+2004,Moped,9
+2004,Motor Cycle,1775
+2004,Motor Scooter,49
+2004,Other Vehicle,231
+2004,Panel Van,539
+2004,Prime Mover (No of Trailers Unknown),421
+2004,Prime Mover Only,1
+2004,Rigid Truck(Weight Unknown),560
+2004,Station Wagon,3097
+2004,Taxi,314
+2004,Train,11
+2004,Tram,100
+2004,Unknown,272
+2004,Utility,1694
+2005,Bicycle,1188
+2005,Bus/Coach,117
+2005,Car,11472
+2005,Heavy Vehicle (Rigid) > 4.5 Tonnes,4
+2005,Light Commercial Vehicle (Rigid) <= 4.5 Tonnes GVM,6
+2005,Mini Bus(9-13 seats),38
+2005,Moped,17
+2005,Motor Cycle,1824
+2005,Motor Scooter,63
+2005,Other Vehicle,200
+2005,Panel Van,542
+2005,Prime Mover (No of Trailers Unknown),362
+2005,Prime Mover Only,1
+2005,Rigid Truck(Weight Unknown),565
+2005,Station Wagon,3008
+2005,Taxi,338
+2005,Train,14
+2005,Tram,76
+2005,Unknown,294
+2005,Utility,1629
